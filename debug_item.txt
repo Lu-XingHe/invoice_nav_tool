@@ -1,0 +1,48 @@
+merged keys:
+  algo_version
+  angle
+  ftype
+  height
+  orgHeight
+  orgWidth
+  width
+  invoiceNumber
+  invoiceDate
+  purchaserName
+  purchaserTaxNumber
+  invoiceAmountPreTax
+  invoiceTax
+  totalAmountInWords
+  totalAmount
+  sellerName
+  sellerTaxNumber
+  drawer
+  title
+  invoiceType
+  invoiceDetails
+
+Full merged:
+{
+  "algo_version": "",
+  "angle": 0,
+  "ftype": 0,
+  "height": 1361,
+  "orgHeight": 1361,
+  "orgWidth": 2042,
+  "width": 2042,
+  "invoiceNumber": "26142000001017069901",
+  "invoiceDate": "2026年07月10日",
+  "purchaserName": "山西云农晋科信息技术有限公司",
+  "purchaserTaxNumber": "91140105MA0LXC7P8E",
+  "invoiceAmountPreTax": "153.47",
+  "invoiceTax": "1.53",
+  "totalAmountInWords": "壹佰伍拾伍圆整",
+  "totalAmount": "155.00",
+  "sellerName": "晋城市物贸大厦有限责任公司",
+  "sellerTaxNumber": "911405007435494759",
+  "drawer": "赵燕妮",
+  "title": "电子发票(普通发票)",
+  "invoiceType": "数电普通发票",
+  "invoiceDetails": "[{\"itemName\":\"*生产生活服务*住宿费\",\"specification\":\"\",\"unit\":\"天\",\"quantity\":\"1\",\"unitPrice\":\"153.465346534653\",\"amount\":\"153.47\",\"taxRate\":\"1%\",\"tax\":\"1.53\"}]"
+}
+Extracted item: 山西云农晋科信息技术有限公司

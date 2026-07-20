@@ -1,0 +1,245 @@
+[
+  {
+    "time": "2026-07-20 01:16:38",
+    "files_count": 1,
+    "success_count": 0,
+    "failed_count": 0,
+    "output_dir": "C:/Users/Administrator/Downloads",
+    "details": [
+      {
+        "file": "自定义_1784455818.pdf",
+        "status": "已跳过",
+        "new_name": "26142000001050313126_未知.pdf"
+      }
+    ]
+  },
+  {
+    "time": "2026-07-20 01:17:05",
+    "files_count": 1,
+    "success_count": 0,
+    "failed_count": 0,
+    "output_dir": "C:/Users/Administrator/Downloads",
+    "details": [
+      {
+        "file": "自定义_1784455818.pdf",
+        "status": "已跳过",
+        "new_name": "26142000001050313126_未知.pdf"
+      }
+    ]
+  },
+  {
+    "time": "2026-07-20 01:32:07",
+    "files_count": 1,
+    "success_count": 0,
+    "failed_count": 1,
+    "output_dir": "C:/Users/Administrator/Downloads",
+    "details": [
+      {
+        "file": "20260625_沁县-襄垣纪委_44.1km.png",
+        "status": "失败",
+        "new_name": ""
+      }
+    ]
+  },
+  {
+    "time": "2026-07-20 12:07:34",
+    "files_count": 2,
+    "success_count": 1,
+    "failed_count": 1,
+    "output_dir": "E:/发票/2026.7",
+    "details": [
+      {
+        "file": "4ba21282-0455-4572-bd59-46eb40b99443_dzfp_26142000001037567776_晋城市物贸大厦有限责任公司_20260714154710.pdf",
+        "status": "成功",
+        "new_name": "26142000001037567776_2026年07月14日.pdf"
+      },
+      {
+        "file": "20260626_襄垣纪委-屯留_37.4km.png",
+        "status": "失败",
+        "new_name": ""
+      }
+    ]
+  },
+  {
+    "time": "2026-07-20 13:54:47",
+    "files_count": 1,
+    "success_count": 1,
+    "failed_count": 0,
+    "output_dir": "E:/发票/2026.7",
+    "details": [
+      {
+        "file": "7d855a5d-731a-4383-acc5-aa2e07af0c8c_dzfp_26142000001025669626_山西悦家酒店管理有限公司_20260713094636.pdf",
+        "status": "成功",
+        "new_name": "_生产生活服务_148.51_20260712.pdf"
+      }
+    ]
+  },
+  {
+    "time": "2026-07-20 14:01:47",
+    "files_count": 1,
+    "success_count": 1,
+    "failed_count": 0,
+    "output_dir": "E:/发票/2026.7",
+    "details": [
+      {
+        "file": "_生产生活服务_148.51_20260712.pdf",
+        "status": "成功",
+        "new_name": "_生产生活服务_生产生活服务_150.00_20260712.pdf"
+      }
+    ]
+  },
+  {
+    "time": "2026-07-20 14:11:11",
+    "files_count": 1,
+    "success_count": 0,
+    "failed_count": 0,
+    "output_dir": "E:/发票/2026.7",
+    "details": [
+      {
+        "file": "_生产生活服务_生产生活服务_150.00_20260712.pdf",
+        "status": "已跳过",
+        "new_name": "_生产生活服务_生产生活服务_150.00_20260712.pdf"
+      }
+    ]
+  },
+  {
+    "time": "2026-07-20 14:22:04",
+    "files_count": 1,
+    "success_count": 1,
+    "failed_count": 0,
+    "output_dir": "E:/发票/2026.7",
+    "details": [
+      {
+        "file": "_生产生活服务_148.51_20260712.pdf",
+        "status": "成功",
+        "new_name": "生产生活服务_住宿服务_山西_150.00_20260622.pdf"
+      }
+    ]
+  },
+  {
+    "time": "2026-07-20 16:52:30",
+    "files_count": 1,
+    "success_count": 0,
+    "failed_count": 1,
+    "output_dir": "E:/发票/2026.7",
+    "details": [
+      {
+        "file": "20260625_沁县-襄垣纪委_44.1km.png",
+        "status": "失败",
+        "new_name": ""
+      }
+    ]
+  },
+  {
+    "time": "2026-07-20 16:53:29",
+    "files_count": 1,
+    "success_count": 1,
+    "failed_count": 0,
+    "output_dir": "E:/发票/2026.7",
+    "details": [
+      {
+        "file": "20260625_沁县-襄垣纪委_44.1km.png",
+        "status": "成功",
+        "new_name": "2026-06-2517_16_山西长治市沁县红旗西街-山西长治市襄垣县开元西街和南新西巷路_44.1km.png"
+      }
+    ]
+  },
+  {
+    "time": "2026-07-20 17:10:14",
+    "files_count": 1,
+    "success_count": 1,
+    "failed_count": 0,
+    "output_dir": "E:/发票/2026.7",
+    "details": [
+      {
+        "file": "2026-06-2517_16_山西长治市沁县红旗西街-山西长治市襄垣县开元西街和南新西巷路_44.1km.png",
+        "status": "成功",
+        "new_name": "20260625_山西长治市沁县红旗西街-山西长治市襄垣县开元西街和南新西巷路_44.1km.png"
+      }
+    ]
+  },
+  {
+    "time": "2026-07-20 17:10:30",
+    "files_count": 1,
+    "success_count": 1,
+    "failed_count": 0,
+    "output_dir": "E:/发票/2026.7",
+    "details": [
+      {
+        "file": "_生产生活服务_148.51_20260712.pdf",
+        "status": "成功",
+        "new_name": "生产生活服务_住宿服务_未知地点_150.00_20260622.pdf"
+      }
+    ]
+  },
+  {
+    "time": "2026-07-20 17:21:59",
+    "files_count": 1,
+    "success_count": 0,
+    "failed_count": 0,
+    "output_dir": "E:/发票/2026.7",
+    "details": [
+      {
+        "file": "_生产生活服务_148.51_20260712.pdf",
+        "status": "已跳过",
+        "new_name": "生产生活服务_住宿服务_未知地点_150.00_20260622.pdf"
+      }
+    ]
+  },
+  {
+    "time": "2026-07-20 19:59:17",
+    "files_count": 1,
+    "success_count": 0,
+    "failed_count": 0,
+    "output_dir": "E:/发票/2026.7",
+    "details": [
+      {
+        "file": "2026-06-2517_16_山西长治市沁县红旗西街-山西长治市襄垣县开元西街和南新西巷路_44.1km.png",
+        "status": "已跳过",
+        "new_name": "20260625_山西长治市沁县红旗西街-山西长治市襄垣县开元西街和南新西巷路_44.1km.png"
+      }
+    ]
+  },
+  {
+    "time": "2026-07-20 20:54:15",
+    "files_count": 1,
+    "success_count": 0,
+    "failed_count": 0,
+    "output_dir": "E:/发票/2026.7",
+    "details": [
+      {
+        "file": "_生产生活服务_148.51_20260712.pdf",
+        "status": "已跳过",
+        "new_name": "生产生活服务_住宿服务_山西_150.00_20260622.pdf"
+      }
+    ]
+  },
+  {
+    "time": "2026-07-20 20:57:56",
+    "files_count": 1,
+    "success_count": 0,
+    "failed_count": 0,
+    "output_dir": "E:/发票/2026.7",
+    "details": [
+      {
+        "file": "2026-06-2517_16_山西长治市沁县红旗西街-山西长治市襄垣县开元西街和南新西巷路_44.1km.png",
+        "status": "已跳过",
+        "new_name": "20260625_山西长治市沁县红旗西街-山西长治市襄垣县开元西街和南新西巷路_44.1km.png"
+      }
+    ]
+  },
+  {
+    "time": "2026-07-20 20:58:33",
+    "files_count": 1,
+    "success_count": 0,
+    "failed_count": 0,
+    "output_dir": "E:/发票/2026.7",
+    "details": [
+      {
+        "file": "生产生活服务_住宿服务_未知地点_150.00_20260622.pdf",
+        "status": "已跳过",
+        "new_name": "生产生活服务_住宿服务_山西_150.00_20260622.pdf"
+      }
+    ]
+  }
+]
